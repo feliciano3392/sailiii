@@ -1,0 +1,6 @@
+echo "# sailiii" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:feliciano3392/sailiii.git
+git push -u origin master
